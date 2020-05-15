@@ -1,0 +1,214 @@
+[
+  {
+    "acronym": "AFK ",
+    "expanded_version": "Away From Keyboard"
+  },
+  {
+    "acronym": "BBIAB ",
+    "expanded_version": "Be Back In A Bit"
+  },
+  {
+    "acronym": "BBL ",
+    "expanded_version": "Be Back Later"
+  },
+  {
+    "acronym": "BBS ",
+    "expanded_version": "Be Back Soon"
+  },
+  {
+    "acronym": "BEG ",
+    "expanded_version": "Big Evil Grin"
+  },
+  {
+    "acronym": "BRB ",
+    "expanded_version": "Be Right Back"
+  },
+  {
+    "acronym": "BTW ",
+    "expanded_version": "By The Way"
+  },
+  {
+    "acronym": "EG ",
+    "expanded_version": "Evil Grin"
+  },
+  {
+    "acronym": "FISH ",
+    "expanded_version": "First In Still Here"
+  },
+  {
+    "acronym": "IDK ",
+    "expanded_version": "I Don't Know"
+  },
+  {
+    "acronym": "IMO ",
+    "expanded_version": "In My Opinion"
+  },
+  {
+    "acronym": "IMHO ",
+    "expanded_version": "in my humble opinion"
+  },
+  {
+    "acronym": "IRL ",
+    "expanded_version": "In Real Life"
+  },
+  {
+    "acronym": "KISS ",
+    "expanded_version": "Keep It Simple Stupid"
+  },
+  {
+    "acronym": "LOL ",
+    "expanded_version": "Laughing Out Loud"
+  },
+  {
+    "acronym": "NYOB ",
+    "expanded_version": "None of Your Business"
+  },
+  {
+    "acronym": "OMG ",
+    "expanded_version": "Oh My God"
+  },
+  {
+    "acronym": "PANS ",
+    "expanded_version": "Pretty Awesome New Stuff"
+  },
+  {
+    "acronym": "PHAT ",
+    "expanded_version": "Pretty Hot And Tempting"
+  },
+  {
+    "acronym": "POS ",
+    "expanded_version": "Parents Over Shoulder"
+  },
+  {
+    "acronym": "TTYL ",
+    "expanded_version": "Talk To You Later"
+  },
+  {
+    "acronym": "ASAP ",
+    "expanded_version": "As Soon As Possible"
+  },
+  {
+    "acronym": "AWOL ",
+    "expanded_version": "Absent Without Leave"
+  },
+  {
+    "acronym": "DOA ",
+    "expanded_version": "Dead On Arrival"
+  },
+  {
+    "acronym": "DOB ",
+    "expanded_version": "Date Of Birth"
+  },
+  {
+    "acronym": "DIY ",
+    "expanded_version": "Do It Yourself"
+  },
+  {
+    "acronym": "FAQ ",
+    "expanded_version": "Frequently Asked Questions"
+  },
+  {
+    "acronym": "AKA ",
+    "expanded_version": "Also Known As"
+  },
+  {
+    "acronym": "DBA ",
+    "expanded_version": "Doing Business As"
+  },
+  {
+    "acronym": "DND ",
+    "expanded_version": "Do Not Disturb"
+  },
+  {
+    "acronym": "EOD ",
+    "expanded_version": "End of Day"
+  },
+  {
+    "acronym": "ETA ",
+    "expanded_version": "Estimated Time of Arrival"
+  },
+  {
+    "acronym": "OT ",
+    "expanded_version": "Overtime"
+  },
+  {
+    "acronym": "POS ",
+    "expanded_version": "Point Of Service"
+  },
+  {
+    "acronym": "POC ",
+    "expanded_version": "Point Of Contact"
+  },
+  {
+    "acronym": "RFC ",
+    "expanded_version": "Request for Comments"
+  },
+  {
+    "acronym": "SWOT ",
+    "expanded_version": "Strengths Weaknesses Opportunities Threats"
+  },
+  {
+    "acronym": "SMART ",
+    "expanded_version": "Specific Measurable Attainable Realistic Time"
+  },
+  {
+    "acronym": "TED ",
+    "expanded_version": "Tell me Explain to me Describe to me (Talk)"
+  },
+  {
+    "acronym": "WIP ",
+    "expanded_version": " Work in progress"
+  },
+  {
+    "acronym": "WFM ",
+    "expanded_version": "Works for me"
+  },
+  {
+    "acronym": "LGTM",
+    "expanded_version": "looks good to me"
+  },
+  {
+    "acronym": "STFW",
+    "expanded_version": "search the f***ing web"
+  },
+  {
+    "acronym": "WYSIWYG",
+    "expanded_version": "What You See Is What You Get"
+  },
+  {
+    "acronym": "IIUC",
+    "expanded_version": "If I Understand Correctly"
+  },
+  {
+    "acronym": "IDK",
+    "expanded_version": "I Don't Know"
+  },
+  {
+    "acronym": "NP ",
+    "expanded_version": "no problem"
+  },
+  {
+    "acronym": "EOD",
+    "expanded_version": " End of Day"
+  },
+  {
+    "acronym": "YAGNI",
+    "expanded_version": "You Aren't Gonna Need It "
+  },
+  {
+    "acronym": "DRY",
+    "expanded_version": "Don't Repeat Yourself"
+  },
+  {
+    "acronym": "WFH",
+    "expanded_version": "Work From Home"
+  },
+  {
+    "acronym": "YOLO",
+    "expanded_version": "You Only Live Once"
+  },
+  {
+    "acronym": "FOMO",
+    "expanded_version": "Fear Of Missing Out"
+  }
+]
