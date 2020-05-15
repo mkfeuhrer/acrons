@@ -3,10 +3,18 @@
     <AppHeader />
     <div class="parent">
       <div class="searchBox">
-        <input type="text" v-model="search" placeholder="Enter acronym" />
+        <input v-show="!popular" type="search" v-model="search" placeholder="Enter acronym" />
       </div>
-      <button @click="showPopular" class="btn btn-outline-dark buttonSelection">Popular</button>
-      <button @click="showAll" class="btn btn-outline-dark buttonSelection">Show me All</button>
+      <div class="buttons">
+        <button @click="showPopular" class="btn buttonSelection">Popular</button>
+        <button @click="showAll" class="btn btn-outline-dark buttonSelection">Show me All</button>
+        <a
+          href="https://github.com/mkfeuhrer/acrons/issues"
+          class="btn buttonSelection"
+          target="blank"
+        >Contribute</a>
+      </div>
+
       <div
         v-show="!popular"
         class="searchResult"
@@ -35,6 +43,15 @@
           >{{ value.expanded_version}}</div>
         </div>
       </div>
+      <div style="margin-top:20px;">
+        <a href="https://www.buymeacoffee.com/chHAzigTb" target="_blank">
+          <img
+            src="https://cdn.buymeacoffee.com/buttons/default-orange.png"
+            alt="Buy Me A Coffee"
+            style="height: 40px !important;width: 180px !important;"
+          />
+        </a>
+      </div>
     </div>
     <AppFooter />
   </div>
@@ -51,7 +68,7 @@ export default {
     return {
       search: "",
       acronymList: json,
-      popular: true,
+      popular: false,
       popularList: [
         {
           acronym: "AFK ",
@@ -142,13 +159,30 @@ export default {
   border-radius: 5px;
 }
 
+@media all and (max-width: 768px) {
+  .parent input {
+    height: 40px;
+    width: 300px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+  }
+}
+
 .parent input:focus-within {
   outline: none !important;
-  border: 2px solid #777;
+  border: 2px solid #666;
 }
 
 .searchBox {
   margin-bottom: 20px;
+}
+
+.searchBox input {
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .grid {
@@ -178,8 +212,40 @@ export default {
   background-color: rgb(240, 240, 240);
 }
 
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 .buttonSelection {
   margin-left: 10px;
   margin-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-weight: bold;
+  border: 2px solid #fcc047;
+}
+
+.buttonSelection:hover {
+  background-color: #fcc047;
+  font-weight: bold;
+  color: black;
+  border: 2px solid black;
+}
+
+.buttonSelection:focus {
+  box-shadow: none;
+}
+
+.contribute {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.contribute a {
+  color: #000;
+  margin-top: 5px;
+  font-weight: bold;
 }
 </style>

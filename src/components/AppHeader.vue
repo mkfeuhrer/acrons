@@ -1,7 +1,10 @@
 <template>
   <div class="header">
     <div>
-      <h1>Acrons</h1>
+      <div class="logo">
+        <img style="margin-right: 5px;" src="../assets/logo.png" width="60" height="60" alt />
+        <h1>Acrons</h1>
+      </div>
       <div class="subheading">
         <p>
           One stop solution for finding acronyms.
@@ -22,7 +25,7 @@ export default {};
 }
 
 .header div h1 {
-  font-size: 50px;
+  font-size: 52px;
   font-weight: bolder;
 }
 
@@ -33,5 +36,9 @@ export default {};
 .subheading p {
   font-size: 20px;
   font-weight: normal;
+}
+
+.logo {
+  align-self: center;
 }
 </style>

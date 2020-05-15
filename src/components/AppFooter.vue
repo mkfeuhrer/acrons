@@ -26,7 +26,7 @@
         </a>
       </span>
     </div>
-    <p>
+    <p class="name">
       Made with
       <i class="fas fa-heart heartIcon"></i> by
       <a href="https://mohitkhare.me" target="blank">Mohit</a>
@@ -49,7 +49,7 @@ a {
 
 .footer {
   font-size: 1em;
-  padding: 0.7em;
+  padding: 0.5em;
 }
 
 .socialIcons {
@@ -59,5 +59,14 @@ a {
 
 .socialShare {
   margin: 1em;
+}
+
+.name {
+  font-size: 18px;
+}
+
+.name a {
+  font-weight: 500;
+  color: #000;
 }
 </style>
