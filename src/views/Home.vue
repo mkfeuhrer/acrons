@@ -21,7 +21,12 @@
           >{{ value.expanded_version}}</div>
         </div>
       </div>
-      <div v-show="popular" class="searchResult" v-for="(value, index) in popularList" :key="index">
+      <div
+        v-show="popular"
+        class="searchResult"
+        v-for="(value, index) in popularList"
+        :key="10000 + index"
+      >
         <div class="grid">
           <div class="left" :class="{'grayHighlight': index % 2 !== 0 }">{{ value.acronym }}</div>
           <div

@@ -6,6 +6,34 @@
   </div>
 </template>
 
+<script>
+export default {
+  name: "App",
+  meta: [
+    {
+      name: "keywords",
+      content: "acrons, acron, acronymns, short form, long form, abbrevations"
+    },
+    {
+      name: "description",
+      content: "One stop solution for finding the acronyms"
+    },
+    { name: "subject", content: "One stop solution for finding acronyms" },
+    { name: "author", content: "@mkfeuhrer" },
+    { name: "url", content: "https://mohitkhare.me/acrons" },
+    { name: "og:title", content: "Acrons" },
+    { name: "og:site_name", content: "Acrons" },
+    { name: "og:type", content: "website" },
+    { name: "og:url", content: "https://mohitkhare.me/acrons" },
+    {
+      name: "og:description",
+      content:
+        "One stop solution for finding acronyms.Now understand what these abbrevations stand for!"
+    }
+  ]
+};
+</script>
+
 <style>
 #app {
   font-family: Roboto, Helvetica, Arial, sans-serif;
