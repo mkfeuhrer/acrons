@@ -15,6 +15,21 @@
         >Contribute</a>
       </div>
 
+      <div class="product-hunt">
+        <a
+          href="https://www.producthunt.com/posts/acrons?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-acrons"
+          target="_blank"
+        >
+          <img
+            src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=200817&theme=light"
+            alt="Acrons - One stop solution for finding cool, crazy & popular acronyms | Product Hunt Embed"
+            style="width: 250px; height: 54px;"
+            width="250px"
+            height="54px"
+          />
+        </a>
+      </div>
+
       <div
         v-show="!popular"
         class="searchResult"
@@ -247,5 +262,9 @@ export default {
   color: #000;
   margin-top: 5px;
   font-weight: bold;
+}
+
+.product-hunt {
+  margin: 20px;
 }
 </style>
