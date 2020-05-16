@@ -1,8 +1,9 @@
 # Acrons
 
 <p align="center">
-<img alt="acrons" title="Acrons" src="https://raw.githubusercontent.com/mkfeuhrer/acrons/master/src/assets/logo.png?token=AD2C5J5SSCI57S53VXHRMAK6Y7Y6E" width="200" height="200" />
+<img alt="acrons" title="Acrons" src="https://raw.githubusercontent.com/mkfeuhrer/acrons/master/acrons-demo.png" width="700" height="auto" />
 </p>
+
 
 One stop solution for finding acronyms.
 
