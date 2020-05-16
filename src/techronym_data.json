@@ -230,5 +230,29 @@
   {
     "acronym": "YOLO",
     "expanded_version": "You Only Live Once"
+  },
+  {
+    "acronym": "BYOB",
+    "expanded_version": "Bring Your Own Beer"
+  },
+  {
+    "acronym": "BYOD",
+    "expanded_version": "Bring Your Own Device" 
+  },
+  {
+    "acronym": "FYI",
+    "expanded_version": "For Your Information"
+  },
+  {
+    "acronym": "LMAO",
+    "expanded_version": "Laughing My A** Off"
+  },
+  {
+    "acronym": "ROFL",
+    "expanded_version": "Rolling On the Floor Laughing"
+  },
+  {
+    "acronym": "TLDR",
+    "expanded_version": "Too Long, Didn't Read"
   }
 ]
