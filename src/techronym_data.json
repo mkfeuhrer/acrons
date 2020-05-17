@@ -76,6 +76,10 @@
     "expanded_version": "End of Day"
   },
   {
+    "acronym": "EOM",
+    "expanded_version": "End Of Mail"
+  },
+  {
     "acronym": "ETA ",
     "expanded_version": "Estimated Time of Arrival"
   },
@@ -146,6 +150,14 @@
   {
     "acronym": "OMG ",
     "expanded_version": "Oh My God"
+  },
+  {
+    "acronym": "OOO",
+    "expanded_version": "Out Of Office"
+  },
+  {
+    "acronym": "OOTD",
+    "expanded_version": "Outfit Of The Day"
   },
   {
     "acronym": "OT ",
