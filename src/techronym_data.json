@@ -156,8 +156,16 @@
     "expanded_version": "Oh My God"
   },
   {
+    "acronym": "OMW ",
+    "expanded_version": "On My Way"
+  },
+  {
     "acronym": "OOO",
     "expanded_version": "Out Of Office"
+  },
+  {
+    "acronym": "OOT",
+    "expanded_version": "Out Of Topic"
   },
   {
     "acronym": "OOTD",
@@ -166,6 +174,10 @@
   {
     "acronym": "OT ",
     "expanded_version": "Overtime"
+  },
+  {
+    "acronym": "OTW ",
+    "expanded_version": "On The Way"
   },
   {
     "acronym": "PANS ",
