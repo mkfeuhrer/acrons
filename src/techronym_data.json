@@ -192,6 +192,10 @@
     "expanded_version": "Right now"
   },
   {
+    "acronym": "ROFL ",
+    "expanded_version": "Roll On Floor Laughing"
+  },
+  {
     "acronym": "SMART ",
     "expanded_version": "Specific Measurable Attainable Realistic Time"
   },
@@ -246,6 +250,10 @@
   {
     "acronym": "YAGNI",
     "expanded_version": "You Aren't Gonna Need It "
+  },
+  {
+    "acronym": "YMMV",
+    "expanded_version": "Your Mileage May Vary"
   },
   {
     "acronym": "YOLO",
