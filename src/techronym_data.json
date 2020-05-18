@@ -96,6 +96,10 @@
     "expanded_version": "Fear Of Missing Out"
   },
   {
+    "acronym": "FTW",
+    "expanded_version": "For The Win"
+  },
+  {
     "acronym": "IDK",
     "expanded_version": "I Don't Know"
   },
@@ -182,6 +186,10 @@
   {
     "acronym": "RFC ",
     "expanded_version": "Request for Comments"
+  },
+  {
+    "acronym": "RN",
+    "expanded_version": "Right now"
   },
   {
     "acronym": "ROFL ",
