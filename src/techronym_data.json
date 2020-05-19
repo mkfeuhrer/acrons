@@ -96,6 +96,10 @@
     "expanded_version": "Fear Of Missing Out"
   },
   {
+    "acronym": "FTFY ",
+    "expanded_version": "Fixed That For You"
+  },
+  {
     "acronym": "FTW",
     "expanded_version": "For The Win"
   },
@@ -226,6 +230,10 @@
   {
     "acronym": "TGIF",
     "expanded_version": "Thank God It's Friday"
+  },
+  {
+    "acronym": "TIL",
+    "expanded_version": "Today I Learned"
   },
   {
     "acronym": "TLTR",
