@@ -1,5 +1,9 @@
 [
   {
+    "acronym": "ACC",
+    "expanded_version": "Anyone can come"
+  },
+  {
     "acronym": "AFK ",
     "expanded_version": "Away From Keyboard"
   },
@@ -32,6 +36,14 @@
     "expanded_version": "Big Evil Grin"
   },
   {
+    "acronym": "BOL",
+    "expanded_version": "Best Of Luck"
+  },
+  {
+    "acronym": "BOT",
+    "expanded_version": "Back on topic"
+  },
+  {
     "acronym": "BRB ",
     "expanded_version": "Be Right Back"
   },
@@ -40,8 +52,20 @@
     "expanded_version": "By The Way"
   },
   {
+    "acronym": "BYTM",
+    "expanded_version": "Better You Than Me"
+  },
+  {
     "acronym": "CTA",
     "expanded_version": "Call To Action"
+  },
+  {
+    "acronym": "CU",
+    "expanded_version": "See you"
+  },
+  {
+    "acronym": "CYE",
+    "expanded_version": "Check Your Email"
   },
   {
     "acronym": "DBA ",
@@ -100,6 +124,15 @@
     "expanded_version": "For The Win"
   },
   {
+    "acronym": "GM",
+    "expanded_version": "Good Morning"
+  },
+  {
+    "acronym": "GN",
+    "expanded_version": "Good Night"
+  },
+
+  {
     "acronym": "IDK",
     "expanded_version": "I Don't Know"
   },
@@ -114,6 +147,10 @@
   {
     "acronym": "IMO ",
     "expanded_version": "In My Opinion"
+  },
+  {
+    "acronym": "IMS",
+    "expanded_version": "I Am Sorry"
   },
   {
     "acronym": "IRL ",
@@ -136,8 +173,12 @@
     "expanded_version": "Laughing Out Loud"
   },
   {
+    "acronym": "LMK",
+    "expanded_version": "Let me know"
+  },
+  {
     "acronym": "NP ",
-    "expanded_version": "no problem"
+    "expanded_version": "No Problem"
   },
   {
     "acronym": "NSFW",
@@ -184,6 +225,10 @@
     "expanded_version": "Pretty Awesome New Stuff"
   },
   {
+    "acronym": "PCM",
+    "expanded_version": "Plese Call Me"
+  },
+  {
     "acronym": "PHAT ",
     "expanded_version": "Pretty Hot And Tempting"
   },
@@ -212,6 +257,10 @@
     "expanded_version": "Specific Measurable Attainable Realistic Time"
   },
   {
+    "acronym": "SOT",
+    "expanded_version": "Short Of time"
+  },
+  {
     "acronym": "STFW",
     "expanded_version": "search the f***ing web"
   },
@@ -236,12 +285,20 @@
     "expanded_version": "Terms of service"
   },
   {
+    "acronym": "TOU",
+    "expanded_version": "Thinking Of You"
+  },
+  {
     "acronym": "TTYL ",
     "expanded_version": "Talk To You Later"
   },
   {
     "acronym": "TYT",
     "expanded_version": "Take your time"
+  },
+  {
+    "acronym": "WBS",
+    "expanded_version": "Write Back Soon"
   },
   {
     "acronym": "WFH",
