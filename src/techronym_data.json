@@ -16,6 +16,10 @@
     "expanded_version": "Also Known As"
   },
   {
+    "acronym": "AMA",
+    "expanded_version": "Ask Me Anything"
+  },
+  {
     "acronym": "ASAP ",
     "expanded_version": "As Soon As Possible"
   },
@@ -58,6 +62,10 @@
   {
     "acronym": "BYTM",
     "expanded_version": "Better You Than Me"
+  },
+  {
+    "acronym": "CMIIW",
+    "expanded_version": "Correct Me If I'm Wrong"
   },
   {
     "acronym": "CTA",
@@ -163,6 +171,10 @@
   {
     "acronym": "IRL ",
     "expanded_version": "In Real Life"
+  },
+  {
+    "acronym": "IYKWIM",
+    "expanded_version": "If You Know What I Mean"
   },
   {
     "acronym": "KISS ",
