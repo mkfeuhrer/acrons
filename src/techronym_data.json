@@ -56,6 +56,14 @@
     "expanded_version": "By The Way"
   },
   {
+    "acronym": "BYOB",
+    "expanded_version": "Bring Your Own Beer"
+  },
+  {
+    "acronym": "BYOD",
+    "expanded_version": "Bring Your Own Device" 
+  },
+  {
     "acronym": "BYTM",
     "expanded_version": "Better You Than Me"
   },
@@ -119,6 +127,9 @@
     "acronym": "FISH ",
     "expanded_version": "First In Still Here"
   },
+  { "acronym": "FML",
+    "expanded_version": "F*** My Life"
+  },
   {
     "acronym": "FOMO",
     "expanded_version": "Fear Of Missing Out"
@@ -130,6 +141,10 @@
   {
     "acronym": "FTW",
     "expanded_version": "For The Win"
+  },
+  {
+    "acronym": "FYI",
+    "expanded_version": "For Your Information"
   },
   {
     "acronym": "GM",
@@ -177,12 +192,16 @@
     "expanded_version": "looks good to me"
   },
   {
-    "acronym": "LOL ",
-    "expanded_version": "Laughing Out Loud"
+    "acronym": "LMAO",
+    "expanded_version": "Laughing My A** Off"
   },
   {
     "acronym": "LMK",
     "expanded_version": "Let me know"
+  },
+  {
+    "acronym": "LOL ",
+    "expanded_version": "Laughing Out Loud"
   },
   {
     "acronym": "NP ",
@@ -258,7 +277,7 @@
   },
   {
     "acronym": "ROFL ",
-    "expanded_version": "Roll On Floor Laughing"
+    "expanded_version": "Roll On the Floor Laughing"
   },
   {
     "acronym": "SMART ",
@@ -287,6 +306,10 @@
   {
     "acronym": "TIL",
     "expanded_version": "Today I Learned"
+  },
+  {
+    "acronym": "TLDR",
+    "expanded_version": "Too Long, Didn't Read"
   },
   {
     "acronym": "TLTR",
