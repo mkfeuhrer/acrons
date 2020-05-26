@@ -1,0 +1,38 @@
+[
+  {
+    "acronym": "ManTul",
+    "expanded_version": "Mantap Betul"
+  },
+  {
+    "acronym": "JaPri",
+    "expanded_version": "Jalur Pribadi"
+  },
+  {
+    "acronym": "RekBer",
+    "expanded_version": "Rekening Bersama"
+  },
+  {
+    "acronym": "TTDJ",
+    "expanded_version": "Hati-hati di jalan"
+  },
+  {
+    "acronym": "GerCep",
+    "expanded_version": "Gerak Cepat"
+  },
+  {
+    "acronym": "MaGer",
+    "expanded_version": "Malas Gerak"
+  },
+  {
+    "acronym": "GaJe",
+    "expanded_version": "Gak Jelas"
+  },
+  {
+    "acronym": "CurCol",
+    "expanded_version": "Curhat Colongan"
+  },
+  {
+    "acronym": "GPL",
+    "expanded_version": "Gak Pake Lama"
+  }
+]
