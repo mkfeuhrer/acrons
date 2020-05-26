@@ -86,8 +86,24 @@ export default {
       popular: false,
       popularList: [
         {
-          acronym: "Mantul ",
+          acronym: "ManTul",
           expanded_version: "Mantap Betul"
+        },
+        {
+          acronym: "RekBer",
+          expanded_version: "Rekening Bersama"
+        },
+        {
+          acronym: "JaPri",
+          expanded_version: "Jalur Pribadi"
+        },
+        {
+          acronym: "MaGer",
+          expanded_version: "Males Gerak"
+        },
+        {
+          acronym: "GaJe",
+          expanded_version: "Gak Jelas"
         }
       ]
     };
