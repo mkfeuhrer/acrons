@@ -4,6 +4,8 @@
       <div class="logo">
         <img style="margin-right: 5px;" src="../assets/logo.png" width="60" height="60" alt />
         <h1>Acrons</h1>
+        <router-link to="/">EN</router-link> |
+        <router-link to="/id">ID</router-link>
       </div>
       <div class="subheading">
         <p>
