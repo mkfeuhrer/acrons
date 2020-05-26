@@ -4,8 +4,8 @@
       <div class="logo">
         <img style="margin-right: 5px;" src="../assets/logo.png" width="60" height="60" alt />
         <h1>Acrons</h1>
-        <router-link to="/">EN</router-link> |
-        <router-link to="/id">ID</router-link>
+        <router-link to="/" class="routes">English</router-link>|
+        <router-link to="/id" class="routes">Bahasa</router-link>
       </div>
       <div class="subheading">
         <p>
@@ -42,5 +42,22 @@ export default {};
 
 .logo {
   align-self: center;
+}
+
+.routes {
+  margin: 0 5px;
+  font-weight: bold;
+  font-size: 18px;
+  color: #666;
+  border-bottom: 3px solid #fcc047;
+}
+
+.routes:hover {
+  margin: 0 5px;
+  font-weight: bold;
+  font-size: 18px;
+  color: #fcc047;
+  text-decoration: none;
+  border-bottom: 3px solid #333;
 }
 </style>
