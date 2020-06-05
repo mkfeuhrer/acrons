@@ -159,6 +159,14 @@
     "expanded_version": "For Your Information"
   },
   {
+    "acronym": "GG",
+    "expanded_version": "Good Game"
+  },
+  {
+    "acronym": "GGWP",
+    "expanded_version": "Good Game Well Played"
+  },
+  {
     "acronym": "GM",
     "expanded_version": "Good Morning"
   },
@@ -170,6 +178,10 @@
   {
     "acronym": "IDK",
     "expanded_version": "I Don't Know"
+  },
+  {
+    "acronym": "IIRC",
+    "expanded_version": "If I Remember Correctly"
   },
   {
     "acronym": "IIUC",
@@ -320,6 +332,10 @@
     "expanded_version": "Tell me Explain to me Describe to me (Talk)"
   },
   {
+    "acronym": "TFW",
+    "expanded_version": "That Feeling When"
+  },
+  {
     "acronym": "TGIF",
     "expanded_version": "Thank God It's Friday"
   },
@@ -348,6 +364,10 @@
     "expanded_version": "Talk To You Later"
   },
   {
+    "acronym": "TYSM",
+    "expanded_version": "Thank You So Much"
+  },
+  {
     "acronym": "TYT",
     "expanded_version": "Take your time"
   },
@@ -366,6 +386,10 @@
   {
     "acronym": "WIP ",
     "expanded_version": " Work in progress"
+  },
+  {
+    "acronym": "WP",
+    "expanded_version": "Well Played"
   },
   {
     "acronym": "WTH",
