@@ -76,6 +76,10 @@
     "expanded_version": "Correct Me If I'm Wrong"
   },
   {
+    "acronym": "CMV",
+    "expanded_version": "Change My View"
+  },
+  {
     "acronym": "CTA",
     "expanded_version": "Call To Action"
   },
@@ -86,6 +90,10 @@
   {
     "acronym": "CYL",
     "expanded_version": "Call You Later"
+  },
+  {
+    "acronym": "DAE",
+    "expanded_version": "Does Anyone Else"
   },
   {
     "acronym": "DBA ",
@@ -110,6 +118,10 @@
   {
     "acronym": "DRY",
     "expanded_version": "Don't Repeat Yourself"
+  },
+  {
+    "acronym" : "ELI5",
+    "expanded_version": "Explain Like I'm 5 (years old)"
   },
   {
     "acronym": "EOD ",
@@ -222,6 +234,10 @@
   {
     "acronym": "NP ",
     "expanded_version": "No Problem"
+  },
+  {
+    "acronym": "NSFL",
+    "expanded_version": "Not Safe For Life (gory or gross)"
   },
   {
     "acronym": "NSFW",
@@ -398,5 +414,9 @@
   {
     "acronym": "YOLO",
     "expanded_version": "You Only Live Once"
+  },
+  {
+    "acronym": "YSK",
+    "expanded_version": "You Should Know"
   }
 ]
