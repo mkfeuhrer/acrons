@@ -88,6 +88,10 @@
     "expanded_version": "Check Your Email"
   },
   {
+    "acronym": "CYL",
+    "expanded_version": "Call You Later"
+  },
+  {
     "acronym": "DBA ",
     "expanded_version": "Doing Business As"
   },
@@ -386,6 +390,10 @@
   {
     "acronym": "WP",
     "expanded_version": "Well Played"
+  },
+  {
+    "acronym": "WTH",
+    "expanded_version": "What The Hell"
   },
   {
     "acronym": "WYSIWYG",
