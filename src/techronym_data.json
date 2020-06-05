@@ -65,7 +65,7 @@
   },
   {
     "acronym": "BYOD",
-    "expanded_version": "Bring Your Own Device" 
+    "expanded_version": "Bring Your Own Device"
   },
   {
     "acronym": "BYTM",
@@ -78,10 +78,6 @@
   {
     "acronym": "CTA",
     "expanded_version": "Call To Action"
-  },
-  {
-    "acronym": "CU",
-    "expanded_version": "See you"
   },
   {
     "acronym": "CYE",
@@ -116,10 +112,6 @@
     "expanded_version": "Don't Repeat Yourself"
   },
   {
-    "acronym": "EG ",
-    "expanded_version": "Evil Grin"
-  },
-  {
     "acronym": "EOD ",
     "expanded_version": "End of Day"
   },
@@ -139,7 +131,8 @@
     "acronym": "FISH ",
     "expanded_version": "First In Still Here"
   },
-  { "acronym": "FML",
+  {
+    "acronym": "FML",
     "expanded_version": "F*** My Life"
   },
   {
@@ -167,15 +160,6 @@
     "expanded_version": "Good Game Well Played"
   },
   {
-    "acronym": "GM",
-    "expanded_version": "Good Morning"
-  },
-  {
-    "acronym": "GN",
-    "expanded_version": "Good Night"
-  },
-
-  {
     "acronym": "IDK",
     "expanded_version": "I Don't Know"
   },
@@ -189,7 +173,7 @@
   },
   {
     "acronym": "IMHO ",
-    "expanded_version": "in my humble opinion"
+    "expanded_version": "in my Honest opinion"
   },
   {
     "acronym": "IMO ",
@@ -334,6 +318,10 @@
   {
     "acronym": "TFW",
     "expanded_version": "That Feeling When"
+  },
+  {
+    "acronym": "TGFY",
+    "expanded_version": "Too Good For You"
   },
   {
     "acronym": "TGIF",
