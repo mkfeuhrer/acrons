@@ -4,7 +4,6 @@
 <img alt="acrons" title="Acrons" src="https://raw.githubusercontent.com/mkfeuhrer/acrons/master/acrons-demo.png" width="700" height="auto" />
 </p>
 
-
 One stop solution for finding acronyms.
 
 Now understand what these abbrevations stand for
@@ -43,7 +42,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Contribute
 
-This is a fun and easy to contribute project. Feel free to add new acronyms by modifying the `technronyms_data.json` file under `src` directory. Please ensure the abbrevations aren't duplicated. Follow the json format.
+This is a fun and easy to contribute project. Feel free to add new acronyms by modifying the `technronyms_data.json` file under `src` directory.
+
+1. Please ensure the abbrevations aren't duplicated.
+2. Follow the json format.
+3. Avoid acronyms with less than 3 characters.
 
 Also, in case you want to add some functionality or improve UI, raise a Issue/PR.
 

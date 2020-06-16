@@ -65,7 +65,7 @@
   },
   {
     "acronym": "BYOD",
-    "expanded_version": "Bring Your Own Device" 
+    "expanded_version": "Bring Your Own Device"
   },
   {
     "acronym": "BYTM",
@@ -76,16 +76,24 @@
     "expanded_version": "Correct Me If I'm Wrong"
   },
   {
+    "acronym": "CMV",
+    "expanded_version": "Change My View"
+  },
+  {
     "acronym": "CTA",
     "expanded_version": "Call To Action"
   },
   {
-    "acronym": "CU",
-    "expanded_version": "See you"
-  },
-  {
     "acronym": "CYE",
     "expanded_version": "Check Your Email"
+  },
+  {
+    "acronym": "CYL",
+    "expanded_version": "Call You Later"
+  },
+  {
+    "acronym": "DAE",
+    "expanded_version": "Does Anyone Else"
   },
   {
     "acronym": "DBA ",
@@ -112,8 +120,8 @@
     "expanded_version": "Don't Repeat Yourself"
   },
   {
-    "acronym": "EG ",
-    "expanded_version": "Evil Grin"
+    "acronym" : "ELI5",
+    "expanded_version": "Explain Like I'm 5 (years old)"
   },
   {
     "acronym": "EOD ",
@@ -135,7 +143,8 @@
     "acronym": "FISH ",
     "expanded_version": "First In Still Here"
   },
-  { "acronym": "FML",
+  {
+    "acronym": "FML",
     "expanded_version": "F*** My Life"
   },
   {
@@ -188,7 +197,7 @@
   },
   {
     "acronym": "IMHO ",
-    "expanded_version": "in my humble opinion"
+    "expanded_version": "in my Honest opinion"
   },
   {
     "acronym": "IMO ",
@@ -237,6 +246,10 @@
   {
     "acronym": "NP ",
     "expanded_version": "No Problem"
+  },
+  {
+    "acronym": "NSFL",
+    "expanded_version": "Not Safe For Life"
   },
   {
     "acronym": "NSFW",
@@ -335,6 +348,10 @@
     "expanded_version": "That Feeling When"
   },
   {
+    "acronym": "TGFY",
+    "expanded_version": "Too Good For You"
+  },
+  {
     "acronym": "TGIF",
     "expanded_version": "Thank God It's Friday"
   },
@@ -391,6 +408,10 @@
     "expanded_version": "Well Played"
   },
   {
+    "acronym": "WTH",
+    "expanded_version": "What The Hell"
+  },
+  {
     "acronym": "WYSIWYG",
     "expanded_version": "What You See Is What You Get"
   },
@@ -405,5 +426,9 @@
   {
     "acronym": "YOLO",
     "expanded_version": "You Only Live Once"
+  },
+  {
+    "acronym": "YSK",
+    "expanded_version": "You Should Know"
   }
 ]
