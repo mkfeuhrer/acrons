@@ -58,15 +58,6 @@
           >{{ value.expanded_version}}</div>
         </div>
       </div>
-      <div style="margin-top:20px;">
-        <a href="https://www.buymeacoffee.com/chHAzigTb" target="_blank">
-          <img
-            src="https://cdn.buymeacoffee.com/buttons/default-orange.png"
-            alt="Buy Me A Coffee"
-            style="height: 40px !important;width: 180px !important;"
-          />
-        </a>
-      </div>
     </div>
     <AppFooter />
   </div>
@@ -87,41 +78,41 @@ export default {
       popularList: [
         {
           acronym: "AFK ",
-          expanded_version: "Away From Keyboard"
+          expanded_version: "Away From Keyboard",
         },
         {
           acronym: "BRB ",
-          expanded_version: "Be Right Back"
+          expanded_version: "Be Right Back",
         },
         {
           acronym: "PHAT ",
-          expanded_version: "Pretty Hot And Tempting"
+          expanded_version: "Pretty Hot And Tempting",
         },
         {
           acronym: "TTYL ",
-          expanded_version: "Talk To You Later"
+          expanded_version: "Talk To You Later",
         },
         {
           acronym: "DIY ",
-          expanded_version: "Do It Yourself"
+          expanded_version: "Do It Yourself",
         },
         {
           acronym: "DND ",
-          expanded_version: "Do Not Disturb"
+          expanded_version: "Do Not Disturb",
         },
         {
           acronym: "WFH",
-          expanded_version: "Work From Home"
+          expanded_version: "Work From Home",
         },
         {
           acronym: "YOLO",
-          expanded_version: "You Only Live Once"
+          expanded_version: "You Only Live Once",
         },
         {
           acronym: "FOMO",
-          expanded_version: "Fear Of Missing Out"
-        }
-      ]
+          expanded_version: "Fear Of Missing Out",
+        },
+      ],
     };
   },
   created() {
@@ -132,11 +123,11 @@ export default {
   computed: {
     filteredList() {
       return this.acronymList
-        .filter(obj => {
+        .filter((obj) => {
           return obj.acronym.toLowerCase().includes(this.search.toLowerCase());
         })
         .sort((a, b) => (a.acronym > b.acronym ? 1 : -1));
-    }
+    },
   },
   methods: {
     showPopular() {
@@ -145,12 +136,12 @@ export default {
     },
     showAll() {
       this.popular = false;
-    }
+    },
   },
   components: {
     AppHeader,
-    AppFooter
-  }
+    AppFooter,
+  },
 };
 </script>
 

@@ -58,15 +58,6 @@
           >{{ value.expanded_version}}</div>
         </div>
       </div>
-      <div style="margin-top:20px;">
-        <a href="https://www.buymeacoffee.com/chHAzigTb" target="_blank">
-          <img
-            src="https://cdn.buymeacoffee.com/buttons/default-orange.png"
-            alt="Buy Me A Coffee"
-            style="height: 40px !important;width: 180px !important;"
-          />
-        </a>
-      </div>
     </div>
     <AppFooter />
   </div>
@@ -87,25 +78,25 @@ export default {
       popularList: [
         {
           acronym: "ManTul",
-          expanded_version: "Mantap Betul"
+          expanded_version: "Mantap Betul",
         },
         {
           acronym: "RekBer",
-          expanded_version: "Rekening Bersama"
+          expanded_version: "Rekening Bersama",
         },
         {
           acronym: "JaPri",
-          expanded_version: "Jalur Pribadi"
+          expanded_version: "Jalur Pribadi",
         },
         {
           acronym: "MaGer",
-          expanded_version: "Males Gerak"
+          expanded_version: "Males Gerak",
         },
         {
           acronym: "GaJe",
-          expanded_version: "Gak Jelas"
-        }
-      ]
+          expanded_version: "Gak Jelas",
+        },
+      ],
     };
   },
   created() {
@@ -116,11 +107,11 @@ export default {
   computed: {
     filteredList() {
       return this.acronymList
-        .filter(obj => {
+        .filter((obj) => {
           return obj.acronym.toLowerCase().includes(this.search.toLowerCase());
         })
         .sort((a, b) => (a.acronym > b.acronym ? 1 : -1));
-    }
+    },
   },
   methods: {
     showPopular() {
@@ -129,12 +120,12 @@ export default {
     },
     showAll() {
       this.popular = false;
-    }
+    },
   },
   components: {
     AppHeader,
-    AppFooter
-  }
+    AppFooter,
+  },
 };
 </script>
 
