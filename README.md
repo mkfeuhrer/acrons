@@ -8,7 +8,7 @@ One stop solution for finding acronyms.
 
 Now understand what these abbrevations stand for
 
-Live here - [Acrons](https://mohitkhare.me/acrons/)
+Live here - [Acrons](https://acrons.vercel.app)
 
 <a href="https://www.producthunt.com/posts/acrons?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-acrons" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=200817&theme=light" alt="Acrons - One stop solution for finding cool, crazy & popular acronyms | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 
@@ -56,4 +56,4 @@ Star and share!
 
 ## Author
 
-- [Mohit Khare](https://mohitkhare.me)
+- [Mohit Khare](https://mohitkhare.com)
