@@ -1,3 +1,3 @@
-module.exports = {
-  publicPath: "/acrons/",
-};
+// module.exports = {
+//   publicPath: "/acrons/",
+// };
