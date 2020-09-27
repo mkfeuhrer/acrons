@@ -48,6 +48,10 @@
     "expanded_version": "Big Evil Grin"
   },
   {
+    "acronym": "BFF ",
+    "expanded_version": "Best Friends Forever"
+  },
+  {
     "acronym": "BOL",
     "expanded_version": "Best Of Luck"
   },
@@ -228,6 +232,10 @@
     "expanded_version": "Let me know"
   },
   {
+    "acronym": "MIA ",
+    "expanded_version": "Missing in Action"
+  },
+  {
     "acronym": "LOL ",
     "expanded_version": "Laughing Out Loud"
   },
@@ -316,12 +324,28 @@
     "expanded_version": "Roll On the Floor Laughing"
   },
   {
+    "acronym": "SMP ",
+    "expanded_version": "Social Media Platform"
+  },
+  {
+    "acronym": "SFW ",
+    "expanded_version": "Safe For Work"
+  },
+  {
     "acronym": "SMART ",
     "expanded_version": "Specific Measurable Attainable Realistic Time"
   },
   {
+    "acronym": "SOL ",
+    "expanded_version": "Shit Out of Luck"
+  },
+  {
     "acronym": "SOT",
     "expanded_version": "Short Of time"
+  },
+  {
+    "acronym": "SOV ",
+    "expanded_version": "Share of voice"
   },
   {
     "acronym": "STFW",
