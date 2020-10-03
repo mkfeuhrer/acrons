@@ -144,6 +144,10 @@
     "expanded_version": "Frequently Asked Questions"
   },
   {
+    "acronym": "FIRE",
+    "expanded_version": "Financial Independence and Retire Early"
+  },
+  {
     "acronym": "FISH ",
     "expanded_version": "First In Still Here"
   },
@@ -186,6 +190,10 @@
   {
     "acronym": "IIUC",
     "expanded_version": "If I Understand Correctly"
+  },
+  {
+    "acronym": "IKR",
+    "expanded_version": "I Know, Right?"
   },
   {
     "acronym": "IMHO ",
@@ -248,6 +256,10 @@
     "expanded_version": "Not Safe For Work"
   },
   {
+    "acronym": "NVM",
+    "expanded_version": "Never Mind"
+  },
+  {
     "acronym": "NWR",
     "expanded_version": "Not Work Related"
   },
@@ -290,6 +302,10 @@
   {
     "acronym": "PCM",
     "expanded_version": "Plese Call Me"
+  },
+  {
+    "acronym": "PFA",
+    "expanded_version": "Please Find Attached"
   },
   {
     "acronym": "PHAT ",
